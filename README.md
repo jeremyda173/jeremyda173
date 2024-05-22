@@ -18,7 +18,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <a href="../../Mywebsite/new/portafolio.html">
+    <a href="../../Mywebsite/new/portafolio.html">Jeremy Bc</a>
   </div>
 </div>
 
