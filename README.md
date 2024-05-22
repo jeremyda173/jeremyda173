@@ -12,7 +12,7 @@
 
 ## Briefcase
 <div align="center text-decoration-none">
-  <a href="http://127.0.0.1:5500/new/portafolio.html" class="styled-link">Briefcase</a>
+  <a href="http://127.0.0.1:5500/new/portafolio.html">Briefcase</a>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
