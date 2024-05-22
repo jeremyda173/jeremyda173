@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Jeremy 👋</h1>
+<h1 align="center">Welcome to my GitHub profile 👋</h1>
 </div>
 <img src="https://www.canva.com/design/DAGF6fQhXFY/Ey_Olp4wBySagBbxzh-WQg/view?utm_content=DAGF6fQhXFY&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 
