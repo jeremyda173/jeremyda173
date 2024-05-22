@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript)](https://skillicons.dev)
 
 ## Briefcase
-<div class="center text-decoration-none">
+<div align="center text-decoration-none">
   <a href="http://127.0.0.1:5500/new/portafolio.html" class="styled-link">Briefcase</a>
 </div>
 
