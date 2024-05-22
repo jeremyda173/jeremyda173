@@ -17,9 +17,7 @@
 ## Portafolio
 
 <div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <a href="../../Mywebsite/new/portafolio.html">Jeremy Bc</a>
-  </div>
+  <a href="../../Mywebsite/new/portafolio.html" target="_bck" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px;">Explora mi Portafolio</a>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
