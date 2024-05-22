@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Welcome to my GitHub profile 👋</h1>
 </div>
-<img src="../GitHud PROFILE.png">
+<img src="/GitHudPROFILE.png">
 
 ## About me
 
