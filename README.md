@@ -17,23 +17,8 @@
 ## Portafolio
 
 <div align="center">
-  <h2>Proyectos Destacados</h2>
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; width: 250px;">
-      <h3>Proyecto 1</h3>
-      <p>Descripción breve del proyecto.</p>
-      <a href="http://127.0.0.1:5500/new/portafolio.html">Ver Proyecto</a>
-    </div>
-    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; width: 250px;">
-      <h3>Proyecto 2</h3>
-      <p>Descripción breve del proyecto.</p>
-      <a href="http://127.0.0.1:5500/new/portafolio.html">Ver Proyecto</a>
-    </div>
-    <div style="margin: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; width: 250px;">
-      <h3>Proyecto 3</h3>
-      <p>Descripción breve del proyecto.</p>
-      <a href="http://127.0.0.1:5500/new/portafolio.html">Ver Proyecto</a>
-    </div>
+    <a href="../../Mywebsite/new/portafolio.html">
   </div>
 </div>
 
