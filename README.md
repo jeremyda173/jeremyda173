@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Jeremy 👋</h1>
 </div>
-<img src="C:\Users\Jeremy Dominguez\Desktop\GitHud PROFILE.png">
+<img src="https://www.canva.com/design/DAGF6fQhXFY/Ey_Olp4wBySagBbxzh-WQg/view?utm_content=DAGF6fQhXFY&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 
