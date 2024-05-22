@@ -5,7 +5,7 @@
 ## Sobre mí
 
 <p>
-  Hola, mi nombre es [Tu Nombre]. Soy un desarrollador apasionado con habilidades en varias tecnologías.
+ Hello, my name is Jeremy Dominguez Angeles. I am a passionate developer with skills in various technologies.
 </p>
 
 <br>
