@@ -1,11 +1,15 @@
 <div align="center">
-<h1 align="center">Welcome to my GitHub profile 👋</h1>
+  <img src="/GitHudPROFILE.png">
 </div>
-<img src="/GitHudPROFILE.png">
+
 
 ## About me
 
 <br>
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,python,html,css,mysql)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
