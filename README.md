@@ -17,7 +17,7 @@
 ## Portafolio
 
 <div align="center">
-  <p><a href="../../Mywebsite/new/portafolio.html" target="_bck" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px;">Explora mi Portafolio</p></a>
+  <p><a href="https://jeremyda173.github.io/Portfolio/" target="_bck" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px;">Explora mi Portafolio</p></a>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
