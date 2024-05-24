@@ -2,22 +2,22 @@
   <img src="/GitHudPROFILE.png" alt="Profile Picture">
 </div>
 
-## Sobre mí
+## About me
 
 <p>
- Hello, my name is Jeremy Dominguez Angeles. I am a passionate developer with skills in various technologies.
+  Hello, my name is Jeremy Dominguez Angeles. I am a passionate developer with skills in various technologies.
 </p>
 
 <br>
 
-## Habilidades
+## Skills
 
-[![Mis Habilidades](https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript)](https://skillicons.dev)
 
-## Portafolio
+## Portfolio
 
 <div align="center">
-  <p><a href="https://jeremyda173.github.io/Portfolio/" target="_bck" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px;">Explora mi Portafolio</p></a>
+  <p><a href="https://jeremyda173.github.io/Portfolio/" target="_bck" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px;">Explore my Portfolio</p></a>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
