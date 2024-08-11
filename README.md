@@ -14,12 +14,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript)](https://skillicons.dev)
 
-## Portfolio
-
-<div align="center">
-  <p><a href="https://jeremyda173.github.io/Portfolio/" target="_bck" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px;">Explore my Portfolio</p></a>
-</div>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <table align="center">
