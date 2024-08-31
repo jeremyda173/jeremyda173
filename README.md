@@ -62,11 +62,11 @@
   </a>
 </div>
 
-## 💻 Contribution Stats
+<!-- ## 💻 Contribution Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeremyda173&theme=algolia" alt="GitHub Contributions">
-</div>
+</div> -->
 
 ## 🛠️ Commits by Language
 
