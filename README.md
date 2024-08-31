@@ -14,7 +14,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript)](https://skillicons.dev)
 
-<<<<<<< HEAD
 ## Portfolio
 
 <div align="center">
@@ -24,7 +23,6 @@
 ## ⚙️ GitHub Analytics
 =======
 ### ⚙️ &nbsp;GitHub Analytics
->>>>>>> 62b0e0e6d9444b45a4b797f3d4baaffd65240236
 
 <table align="center">
   <tr>
