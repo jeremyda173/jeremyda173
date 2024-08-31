@@ -4,7 +4,7 @@
 
 ## About me
 
-<p>
+<p align="center">
   Hello, my name is Jeremy Dominguez Angeles. I am a passionate developer with skills in various technologies.
 </p>
 
@@ -12,7 +12,11 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript" alt="My Skills">
+  </a>
+</div>
 
 ## Portfolio
 
@@ -22,29 +26,21 @@
 
 ## ⚙️ GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/jeremyda173">
-          <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremyda173&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jeremyda173">
-          <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyda173&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jeremyda173">
+        <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremyda173&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 📈 GitHub Activity Graph
+<!-- ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyda173&repo=github-readme-stats&theme=algolia" alt="GitHub Activity Graph">
-</div>
-
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeremyda173&theme=algolia&hide_border=true" alt="GitHub Activity Graph">
+</div> -->
 
 ## 🗓️ Weekly Commit Stats
 
@@ -64,6 +60,12 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeremyda173&theme=algolia" alt="GitHub Profile Summary">
   </a>
+</div>
+
+## 💻 Contribution Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeremyda173&theme=algolia" alt="GitHub Contributions">
 </div>
 
 ## 🛠️ Commits by Language
