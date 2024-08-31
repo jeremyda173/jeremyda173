@@ -18,7 +18,7 @@
 ## Portfolio
 
 <div align="center">
-  <p><a href="https://jeremyda173.github.io/Portfolio/" target="_bck" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px;">Explore my Portfolio</p></a>
+  <p><a href="https://projects-js-gamma.vercel.app/" target="_bck" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px;">Explore my Portfolio</p></a>
 </div>
 
 ## ⚙️ GitHub Analytics
