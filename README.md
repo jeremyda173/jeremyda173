@@ -42,8 +42,9 @@
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeremyda173&theme=algolia&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyda173&repo=github-readme-stats&theme=algolia" alt="GitHub Activity Graph">
 </div>
+
 
 ## 🗓️ Weekly Commit Stats
 
