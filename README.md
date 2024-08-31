@@ -20,7 +20,7 @@
   <p><a href="https://jeremyda173.github.io/Portfolio/" target="_bck" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px;">Explore my Portfolio</p></a>
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <table align="center">
   <tr>
@@ -36,3 +36,31 @@
     </td>
   </tr>
 </table>
+
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeremyda173&theme=algolia&hide_border=true)
+
+## 🗓️ Weekly Commit Stats
+
+![GitHub Commits Stats](https://github-readme-streak-stats.herokuapp.com/?user=jeremyda173&theme=algolia)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeremyda173&theme=algolia&no-frame=true&row=1)
+
+## 🔥 Recent GitHub Activity
+
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeremyda173&theme=algolia)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## 💻 Contribution Stats
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=jeremyda173&theme=algolia)
+
+## 🛠️ Commits by Language
+
+![Commits by Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&theme=algolia)
+
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=jeremyda173&color=blue&style=flat-square)
