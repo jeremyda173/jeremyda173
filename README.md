@@ -77,7 +77,9 @@
 ## GitHub Committer Badge
 
 <div align="center">
-  [![committers.top badge](https://user-badge.committers.top/dominican_republic/jeremyda173.svg)](https://user-badge.committers.top/dominican_republic/jeremyda173)
+  <a href="https://user-badge.committers.top/dominican_republic/jeremyda173">
+    <img src="https://user-badge.committers.top/dominican_republic/jeremyda173.svg" alt="GitHub Committer Badge">
+  </a>
 </div>
 
 ## 👁️ Profile Views
