@@ -74,6 +74,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&theme=algolia" alt="Commits by Language">
 </div>
 
+## GitHub Committer Badge
+
+<div align="center">
+  [![committers.top badge](https://user-badge.committers.top/dominican_republic/jeremyda173.svg)](https://user-badge.committers.top/dominican_republic/jeremyda173)
+</div>
+
 ## 👁️ Profile Views
 
 <div align="center">
