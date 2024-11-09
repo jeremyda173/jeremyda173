@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript,tailwind,firebase" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript,tailwind,firebase,sublimetext" alt="My Skills">
   </a>
 </div>
 
