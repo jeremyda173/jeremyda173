@@ -5,7 +5,7 @@
 ## About me
 
 <p align="center">
-  Hello, my name is Jeremy Dominguez Angeles. I am a passionate developer with skills in various technologies.
+  Hello, my name is Jeremy Dominguez Angeles. I am a developer with skills in various technologies.
 </p>
 
 <br>
