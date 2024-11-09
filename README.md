@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/GitHudPROFILE.png" alt="Profile Picture">
+  <img src="/GitHudPROFILE.png" alt="Jeremy Dominguez Angeles Profile Picture">
 </div>
 
 ## About me
@@ -21,7 +21,11 @@
 ## Portfolio
 
 <div align="center">
-  <p><a href="https://projects-js-gamma.vercel.app/" target="_bck" style="background-color: #007bff; color: #fff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 18px;">Explore my Portfolio</p></a>
+  <p>
+    <a href="https://projects-js-gamma.vercel.app/" target="_bck" style="background-color: #007bff; color: #fff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 20px; transition: transform 0.3s ease;">
+      Explore my Portfolio
+    </a>
+  </p>
 </div>
 
 ## ⚙️ GitHub Analytics
