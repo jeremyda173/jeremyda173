@@ -12,11 +12,10 @@
 
 ## Skills
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript" alt="My Skills">
-  </a>
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,css,html,python,react,js,typescript,tailwind" alt="My Skills">
+</a>
+
 
 ## Portfolio
 
