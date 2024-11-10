@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL Badge">
 </div>
 
-## 🌐 Social Links
+<!-- ## 🌐 Social Links
 
 <div align="center">
   <a href="https://twitter.com/jeremyda173" target="_blank">
@@ -88,7 +88,7 @@
   <a href="https://dev.to/jeremyda173" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white" alt="Dev.to Badge">
   </a>
-</div>
+</div> -->
 
 ## 🏡 Latest GitHub Projects
 
