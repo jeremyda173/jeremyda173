@@ -90,13 +90,13 @@
   </a>
 </div> -->
 
-## 🏡 Latest GitHub Projects
+<!-- ## 🏡 Latest GitHub Projects
 
 <div align="center">
   <a href="https://github.com/jeremyda173?tab=repositories" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyda173&repo=your-repository-name&theme=algolia" alt="Latest Projects">
   </a>
-</div>
+</div> -->
 
 ## 📊 GitHub Contribution Graph
 
