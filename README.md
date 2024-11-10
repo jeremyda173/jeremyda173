@@ -49,7 +49,7 @@
 ## 🗓️ Weekly Commit Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyda173&theme" alt="GitHub Commits Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyda173&theme=algolia" alt="GitHub Commits Stats">
 </div>
 
 ## 🏆 GitHub Trophies
