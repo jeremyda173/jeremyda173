@@ -66,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&theme=algolia" alt="Commits by Language">
 </div>
 
-## 🚀 Technologies I Work With
+<!-- ## 🚀 Technologies I Work With
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React Badge">
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript Badge">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL Badge">
-</div>
+</div> -->
 
 <!-- ## 🌐 Social Links
 
