@@ -104,11 +104,11 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeremyda173&theme=algolia&hide_border=true" alt="GitHub Contribution Graph">
 </div>
 
-## ⏱️ Wakatime Stats
+<!-- ## ⏱️ Wakatime Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeremyda173&theme=algolia" alt="Wakatime Stats">
-</div>
+</div> -->
 
 ## 👁️ Profile Views
 
