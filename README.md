@@ -98,11 +98,11 @@
   </a>
 </div> -->
 
-## 📊 GitHub Contribution Graph
+<!-- ## 📊 GitHub Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeremyda173&theme=algolia&hide_border=true" alt="GitHub Contribution Graph">
-</div>
+</div> -->
 
 <!-- ## ⏱️ Wakatime Stats
 
