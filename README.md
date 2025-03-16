@@ -49,7 +49,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeremyda173&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=JuniorAngeles&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies">
 </div>
 
 ## 🔥 Recent GitHub Activity
