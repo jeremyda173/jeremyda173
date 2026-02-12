@@ -5,31 +5,10 @@
 ## About me
 
 <p align="center">
-  👋 Hi there! I'm Jeremy Dominguez Angeles.<br>
-  🚀 a Full Stack Developer passionate about building robust web applications.<br>
-  Currently focused on mastering modern tech stacks in 2026.
+ Hello, my name is Jeremy Dominguez Angeles. I am a developer with skills in various technologies.
 </p>
 
 <br>
-
-## 🎯 Goals for 2026
-
-<div align="center">
-  <table>
-    <tr>
-      <td><b>🔭 Working on</b></td>
-      <td>Advanced Web Applications & AI Integration</td>
-    </tr>
-    <tr>
-      <td><b>🌱 Learning</b></td>
-      <td>System Architecture & Cloud Computing</td>
-    </tr>
-    <tr>
-      <td><b>⚡ Fun fact</b></td>
-      <td>I love solving complex logical problems!</td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
