@@ -66,6 +66,9 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jeremyda173&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies">
+  <br>
+  <!-- Alternative: Official GitHub Achievements -->
+  <img src="https://img.shields.io/badge/Achievements-Click%20To%20View-2ea44f?style=for-the-badge&logo=github" alt="GitHub Achievements">
 </div>
 
 ## 🔥 Recent GitHub Activity
