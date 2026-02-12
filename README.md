@@ -28,6 +28,22 @@
   </a>
 </div>
 
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://twitter.com/jeremyda173" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/jeremyda173" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  &nbsp;
+  <a href="mailto:contact@jeremyda173.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  </a>
+</div>
+
 ## ⚙️ GitHub Analytics
 
 <table align="center">
@@ -66,20 +82,10 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&theme=algolia" alt="Commits by Language">
 </div>
 
-## 🌐 Connect with Me
+## 📊 GitHub Contribution Graph
 
 <div align="center">
-  <a href="https://twitter.com/jeremyda173" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/jeremyda173" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  &nbsp;
-  <a href="mailto:contact@jeremyda173.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremyda173&theme=algolia&hide_border=true" alt="GitHub Contribution Graph">
 </div>
 
 <!-- ## 🏡 Latest GitHub Projects
@@ -89,12 +95,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyda173&repo=your-repository-name&theme=algolia" alt="Latest Projects">
   </a>
 </div> -->
-
-## 📊 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremyda173&theme=algolia&hide_border=true" alt="GitHub Contribution Graph">
-</div>
 
 <!-- ## ⏱️ Wakatime Stats
 
