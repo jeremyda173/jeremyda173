@@ -62,13 +62,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyda173&theme=algolia" alt="GitHub Commits Stats">
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeremyda173&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies">
-  <br>
-  <!-- Alternative: Official GitHub Achievements -->
-  <img src="https://img.shields.io/badge/Achievements-Click%20To%20View-2ea44f?style=for-the-badge&logo=github" alt="GitHub Achievements">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremyda173&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Achievements" alt="GitHub Achievements">
 </div>
 
 ## 🔥 Recent GitHub Activity
