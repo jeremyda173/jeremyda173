@@ -63,7 +63,7 @@
 ## 🛠️ Commits by Language
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&theme=algolia" alt="Commits by Language">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&theme=algolia" alt="Commits by Language">
 </div>
 
 ## 🌐 Connect with Me
