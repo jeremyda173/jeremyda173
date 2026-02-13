@@ -12,22 +12,10 @@
 
 <div align="center">
 
-### 🌐 Connect with Me & Portfolio
+### 🌐 Portfolio
 
   <a href="https://projects-js-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio">
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/jeremyda173" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/jeremyda173" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  &nbsp;
-  <a href="mailto:contact@jeremyda173.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 
 </div>
