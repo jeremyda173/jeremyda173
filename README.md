@@ -11,13 +11,10 @@
 <br>
 
 <div align="center">
-
-### 🌐 Portfolio
-
+  ### 🌐 Portfolio
   <a href="https://projects-js-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00ff00?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black" alt="Visit Portfolio">
   </a>
-
 </div>
 
 <br>
@@ -28,20 +25,20 @@
   
   <!-- Trophy (Matrix Theme) -->
   <img src="https://github-profile-trophy.vercel.app/?username=jeremyda173&theme=matrix&no-frame=true&row=1" alt="GitHub Trophies">
+  
   <br><br>
 
-  <!-- GitHub Stats (Matrix Custom Colors) -->
+  <!-- GitHub Stats & Top Langs Side-by-Side -->
   <a href="https://github.com/jeremyda173">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremyda173&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00" alt="GitHub Stats"/>
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremyda173&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00" alt="GitHub Stats"/>
   </a>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyda173&langs_count=6&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00" alt="Commits by Language">
+  
   <br><br>
 
-  <!-- Streak Stats (Matrix Custom Colors) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyda173&hide_border=true&background=000000&border=00ff00&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Commits Stats">
-  <br><br>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyda173&hide_border=true&background=0d1117&border=00ff00&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Commits Stats">
 
-  <!-- Top Langs (Matrix Custom Colors) -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&hide_border=true&layout=compact&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00" alt="Commits by Language">
 </div>
 
 <br>
