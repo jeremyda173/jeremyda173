@@ -62,12 +62,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyda173&theme=algolia" alt="GitHub Commits Stats">
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremyda173&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Achievements" alt="GitHub Achievements">
-</div>
-
 ## 🔥 Recent GitHub Activity
 
 <div align="center">
