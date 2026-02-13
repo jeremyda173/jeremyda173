@@ -1,36 +1,23 @@
 <div align="center">
-  <img src="/GitHudPROFILE.png" alt="Jeremy Dominguez Angeles Profile Picture">
+  <img src="/GitHudPROFILE.png" alt="Jeremy Dominguez Angeles Profile Picture" width="100%" style="max-width: 800px;">
 </div>
 
-## About me
+<h1 align="center">Hi there, I'm Jeremy Dominguez Angeles 👋</h1>
 
 <p align="center">
- Hello, my name is Jeremy Dominguez Angeles. I am a developer with skills in various technologies.
+  I am a passionate developer exploring various technologies and building cool projects.
 </p>
 
 <br>
 
-<br>
-
-## Skills
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,mysql,mongodb,firebase,git,github,vscode,linux&perline=10" alt="My Skills">
-  </a>
-</div>
 
-## Portfolio
+### 🌐 Connect with Me & Portfolio
 
-<div align="center">
   <a href="https://projects-js-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio">
   </a>
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
+  &nbsp;
   <a href="https://twitter.com/jeremyda173" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
@@ -42,33 +29,25 @@
   <a href="mailto:contact@jeremyda173.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
+
 </div>
 
-## ⚙️ GitHub Analytics
+<br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/jeremyda173">
-        <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremyda173&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 🗓️ Weekly Commit Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyda173&theme=algolia" alt="GitHub Commits Stats">
+  <br>
+  <a href="https://github.com/jeremyda173">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeremyda173&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  </a>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyda173&theme=algolia&hide_border=true" alt="GitHub Commits Stats">
+  <br><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&theme=algolia&hide_border=true&layout=compact" alt="Commits by Language">
 </div>
 
-## 🛠️ Commits by Language
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&theme=algolia" alt="Commits by Language">
-</div>
-
-## 👁️ Profile Views
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jeremyda173&color=blue&style=flat-square" alt="Profile Views">
