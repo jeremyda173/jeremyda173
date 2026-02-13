@@ -1,11 +1,11 @@
-<div align="center">
+<!-- <div align="center">
   <img src="/GitHudPROFILE.png" alt="Jeremy Dominguez Angeles Profile Picture" width="100%" style="max-width: 800px;">
-</div>
+</div> -->
 
 <h1 align="center">Hi there, I'm Jeremy Dominguez Angeles 👋</h1>
 
 <p align="center">
- Hello, my name is Jeremy Dominguez Angeles. I am a developer with skills in various technologies.
+  I am a developer with skills in various technologies.
 </p>
 
 <br>
