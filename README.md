@@ -62,33 +62,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyda173&theme=algolia" alt="GitHub Commits Stats">
 </div>
 
-## 🔥 Recent GitHub Activity
-
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeremyda173&theme=algolia" alt="GitHub Profile Summary">
-  </a>
-</div>
-
 ## 🛠️ Commits by Language
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&theme=algolia" alt="Commits by Language">
 </div>
-
-<!-- ## 🏡 Latest GitHub Projects
-
-<div align="center">
-  <a href="https://github.com/jeremyda173?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyda173&repo=your-repository-name&theme=algolia" alt="Latest Projects">
-  </a>
-</div> -->
-
-<!-- ## ⏱️ Wakatime Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jeremyda173&theme=algolia" alt="Wakatime Stats">
-</div> -->
 
 ## 👁️ Profile Views
 
