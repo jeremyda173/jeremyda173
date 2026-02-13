@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Jeremy Dominguez Angeles 👋</h1>
 
 <p align="center">
-  I am a passionate developer exploring various technologies and building cool projects.
+ Hello, my name is Jeremy Dominguez Angeles. I am a developer with skills in various technologies.
 </p>
 
 <br>
