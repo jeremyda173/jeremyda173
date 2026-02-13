@@ -76,12 +76,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeremyda173&langs_count=8&theme=algolia" alt="Commits by Language">
 </div>
 
-## 📊 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremyda173&theme=algolia&hide_border=true" alt="GitHub Contribution Graph">
-</div>
-
 <!-- ## 🏡 Latest GitHub Projects
 
 <div align="center">
