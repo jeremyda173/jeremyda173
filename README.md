@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <a href="https://projects-js-gamma.vercel.app/" target="_blank">
+  <a href="jeremy-inky.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00ff00?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black" alt="Visit Portfolio">
   </a>
 </div>
