@@ -2,7 +2,7 @@
   <img src="/GitHudPROFILE.png" alt="Jeremy Dominguez Angeles Profile Picture" width="100%" style="max-width: 800px;">
 </div> -->
 
-<h1 align="center">Hi there, I'm Jeremy Dominguez Angeles 👋.</h1>
+<h1 align="center">Hi there, I'm Jeremy Dominguez Angeles 👋</h1>
 
 <p align="center">
   I am a developer with skills in various technologies.
