@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jeremy-angeles-5a3ab0276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/jer3_21" target="_blank"><img src="https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/jeremy-angeles-5a3ab0276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff00" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/jer3_21" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff00" alt="Instagram" /></a>
 </div>
 
 <br>
@@ -19,10 +19,10 @@
 <h2 align="center">💻 Tecnologías y Herramientas</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-00ff00?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-00ff00?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Firebase-00ff00?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-00ff00?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff00" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff00" alt="React" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00ff00" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff00" alt="Git" />
 </div>
 
 <br>
